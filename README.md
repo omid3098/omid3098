@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Omid Saadat
-- 👀 I’m interested in solving technical problems in game development.
+- 👀 I’m interested in solving technical problems usually in game development.
 - 📫 How to reach me: 
   - [Website](http://omid-saadat.com/)
   - [Telegram](https://t.me/Omid3098)
